@@ -55,6 +55,8 @@ img {
 }
 
 #contact {
+  width: 400px;
+  margin: 0 auto;
   border: 5px white solid;
   border-radius: 30px;
   padding: 20px;
